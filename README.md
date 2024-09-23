@@ -1,4 +1,4 @@
-# 2024 Sri Lankan Presidential Election Dataset
+# 2024 Sri Lankan Presidential Election Results Dataset
 
 ![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![BeautifulSoup4](https://img.shields.io/badge/BeautifulSoup4-4.12.2-orange?style=for-the-badge&logo=python&logoColor=white)
